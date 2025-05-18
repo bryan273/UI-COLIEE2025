@@ -1,8 +1,7 @@
 # UI-COLIEE 2025 – Task 4: Legal Textual Entailment  
 
 The Competition on Legal Information Extraction/Entailment (COLIEE) fosters
-research in automatic legal reasoning.  
-We participated in **Task 4 – Legal Textual Entailment** and submitted two runs
+research in automatic legal reasoning. We participated in **Task 4 – Legal Textual Entailment** and submitted two runs
 that deliberately rely on *prompt engineering* instead of fine-tuning,
 so that anyone can reproduce them on commodity hardware.
 
