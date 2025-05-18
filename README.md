@@ -19,9 +19,9 @@ that you can stop and resume at any time.
 
 | Run-ID      | Accuracy (%) | Split  |
 | ----------- | ------------ | ------ |
-| XXRunLang   | 82.19        | Test   |
-| XXRunCoT¹   | 80.09        | Dev    |
-| XXRunFTune² | 60.27        | Test   |
+| UIRunLang   | 82.19        | Test   |
+| UIRunCoT¹   | 80.09        | Dev    |
+| UIRunFTune² | 60.27        | Test   |
 
 ¹ Not ranked officially because the model version was no longer on the COLIEE white-list when the leaderboard froze.  
 ² Internal ablation study (small fine-tune on Qwen 2-7B).
