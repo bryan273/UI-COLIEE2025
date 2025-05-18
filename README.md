@@ -73,8 +73,7 @@ cp /path/to/COLIEE_dataset_H30-R02.csv data/
 jupyter lab
 ```
 
-# open notebooks/XXRunLang.ipynb or XXRunCoT.ipynb and Run-All
-Both notebooks save intermediate results to evaluated_results.csv
+open notebooks/XXRunLang.ipynb or XXRunCoT.ipynb and Run-All. Both notebooks save intermediate results to evaluated_results.csv
 (or *_CoT.csv) so you can safely interrupt and resume.
 
 ---
