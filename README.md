@@ -49,11 +49,8 @@ Columns:
 * Python ≥ 3.9  
 * `pip install -r requirements.txt` (see file)  
 * Hardware: CPU is sufficient (GPU reduces latency).  
-* Environment variable:  
-
-```
-export OPENAI_API_KEY="<YOUR_OPENROUTER_KEY>
-```
+* Environment variable:  `export OPENAI_API_KEY="<YOUR_OPENROUTER_KEY>
+`
 
 
 ---
