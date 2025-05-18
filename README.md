@@ -1,6 +1,4 @@
 # UI-COLIEE 2025 – Task 4: Legal Textual Entailment  
-Bryan Tjandra • Made Swastika Nata Negara • Alfan Farizki Wicaksono  
-(Indonesia Research NLP & Universitas Indonesia)
 
 The Competition on Legal Information Extraction/Entailment (COLIEE) fosters
 research in automatic legal reasoning.  
